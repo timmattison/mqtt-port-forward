@@ -20,7 +20,7 @@ from your support laptop to a specific remote iot device.
 ## Install
 
 ```sh
-$ npm install mqtt-port-formward
+$ npm install mqtt-port-forward
 ```
 
 ## Usage
